@@ -1,2 +1,1 @@
-# binance-offline-instalations-guide
-Binance download.......
+сюда с чата гпт скрипт
